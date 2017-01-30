@@ -1,0 +1,76 @@
+/* FONT & COLOR */
+body{
+	background: rgb(245,245,245);
+	color: rgb(20,20,20);
+	font-size:18px;
+	font-family: 'Open Sans';
+	margin:0;
+}
+
+h1{
+	font-family: 'Montserrat', sans-serif;
+	color:rgb(20,20,20);
+	font-weight: bolder;
+	font-size: 50px;
+}
+
+h2{
+	font-family:  'Montserrat', sans-serif;
+	color: rgba(20,20,20,0.8);
+	font-weight: lighter;
+	font-size:25px;
+}
+
+a{
+  color: rgb(230,230,230);
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: none;
+	color: white;
+}
+
+/* SPECIFIC DESIGN */
+
+#header{
+	background-image: url("https://unsplash.it/1300/600?random");
+	padding: 200px;
+	text-align: center;
+	background-size: cover;
+}
+
+#header h1{
+	color: rgb(245,245,245);
+}
+
+#header p{
+	color: rgba(230,230,230,0.8);
+}
+
+.feature{
+	padding: 30px;
+	text-align: center;
+}
+
+#footer{
+	background: rgb(30,30,30);
+	padding: 30px;
+}
+
+#footer p{
+	color:rgb(245,245,245);;
+}
+
+#footer p i{
+  color: #D03538;
+}
+
+
+
+
+
+
+
+
+
